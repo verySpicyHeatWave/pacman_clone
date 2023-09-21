@@ -1,0 +1,9 @@
+Player Ideas:
+	Choose a character at the beginning
+		-Cat
+		-Dog
+		-Regular Pacman
+
+	Bad guys are still ghosts I guess
+
+	
